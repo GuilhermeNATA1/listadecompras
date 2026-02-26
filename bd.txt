@@ -1,0 +1,3 @@
+annon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InltdWZucHBob21hbWxycmJ4dHVrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIxMTQxMTIsImV4cCI6MjA4NzY5MDExMn0.2EQ_0dZMeounwM8KMtSfLMvUY1iEYBSfosIbId3THik
+
+url: https://ymufnpphomamlrrbxtuk.supabase.co
