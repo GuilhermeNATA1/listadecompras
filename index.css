@@ -1,0 +1,35 @@
+:root {
+    --cor-primaria-1: #515751;
+    --cor-primaria-2: #36453B;
+    --cor-primaria-3: #596869;
+    --cor-primaria-4: #C8C7AD;
+    --cor-primaria-5: #F5F9E9;
+
+    --cor-branco:#fff;
+    --cor-preto:#1d1d1d;
+    --cor-sombra:#rgba(0, 0, 0, 0.15);
+    --cor-texto:#333
+
+    --fonte: "Poppins", sans-serif;
+    --raio: 12px;
+    --transition: 0.3s ease;
+;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var();
+    background: #1c5066;
+    background: linear-gradient(90deg,rgba(28, 80, 102, 1) 0%, rgba(107, 130, 118, 1) 100%, rgba(237, 221, 83, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
